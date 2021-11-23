@@ -7,3 +7,4 @@ Chat realizado como ejemplo del tema Scripted HTTP para la materia de Programaci
 - Socket.io 
 - Materialize 
 - JQuery 
+- Heroku 
